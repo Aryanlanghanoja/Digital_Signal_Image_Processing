@@ -1,1 +1,1 @@
-# Digital_Signal_Image_Processing
+# Digital Signal and Image Processing
